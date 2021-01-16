@@ -1,0 +1,1 @@
+# phasmophobia-journal-server
